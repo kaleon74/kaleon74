@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2348C9B0&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnologo+Telecomunicaciones+SENA;Estudiante+Ingeniera+Teleco+USTA+☀️;Cloud+AWS+Aficionado+🛰️;CEO+of+AK+WATCH+⌚;Experiencia+en+Redes+HFC+y+GPON+🛜;Apasionado+por+las+nuevas+tendencias+tecnologicas 👁️" </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2348C9B0&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnologo+Telecomunicaciones+SENA;Estudiante+Ingeniera+Teleco+USTA+☀️;Cloud+AWS+Aficionado+🛰️;CEO+of+AK+WATCH+⌚;Experiencia+en+Redes+HFC+y+GPON+🛜;Apasionado+por+las+nuevas+tendencias+tecnologicas 👁️"></a>
 </p>
 
 
