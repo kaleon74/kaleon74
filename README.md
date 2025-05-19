@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"><b>Hola 👋, Mucho Gusto Soy Kevin Leon </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBuamZsNDZpZGRtcjU1bHM4ZWs5a3k1eHNydGllbm5uMndkdG4yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola 👋, Mucho Gusto Soy Kevin Leon </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBuamZsNDZpZGRtcjU1bHM4ZWs5a3k1eHNydGllbm5uMndkdG4yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="45"></h1>
 <!--  -->
 
 <p align="center">
