@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 </p>
 
 
+<h3 align="left">Sobre Mi 🙋🏽‍♂️:</h3>
+<p>
+  
+</p>
+
+
 
 
 
