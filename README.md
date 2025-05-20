@@ -32,10 +32,16 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left">Sobre Mi 🙋🏽‍♂️:</h3>
+<h3 align="left"> <img src="https://i.gifer.com/AQTU.gif" width="50px" Sobre Mi 🙋🏽‍♂️:</h3>
 <p>
+  👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tomas
+  🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones 
   
 </p>
+
+<footer>
+  <img width=100% src= https://capsule-render.vercel.app/api?type=waving&height=101&color=gradient&textBg=false&fontAlign=39&animation=fadeIn&reversal=false&section=footer />
+</footer>
 
 
 
