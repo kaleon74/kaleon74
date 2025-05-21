@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleon74&label=Profile%20views&color=1abc9c&style=flat" alt="kaleon74" /> </p>
 
-<h2 align="center"><b>USTA Ing. Teleco Estudiante</b>
-<!--  -->
+<h2 align="center"><b>USTA Ing. Telecomunicaciones</b></h2>
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -33,13 +34,13 @@ Here are some ideas to get you started:
 
 
 <h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/router.gif?raw=true" width="50"/> <b>Sobre mi</b> 🙋🏽‍♂️:</h2>
-<picture> <img align="right" src="https://github.com/kaleon74/imagenes/blob/main/teleco-unscreen.gif?raw=true" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/kaleon74/imagenes/blob/main/teleco.gif?raw=true" width = 300px></picture>
 
-👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tomas <br>
-🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones <br>
-🛠️ Actualmente empleado en `Almacenes Alkosto`<br>
-🌐 Apasionado por el `Cloud Computing` y la `Arquitectura en la Nube` <br>
-🤖 Interesado en nuevas tendencias tecnologias y avances de la `IA` <br>
+👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tomas <br><br>
+🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones <br><br>
+🛠️ Actualmente empleado en `Almacenes Alkosto`<br><br>
+🌐 Apasionado por el `Cloud Computing` y la `Arquitectura en la Nube` <br><br>
+🤖 Interesado en nuevas tendencias tecnologias y avances de la `IA` <br><br>
 ⌚ Emprendedor, venta de `Relojeria` y `Joyeria` de calidad
 
 <footer>
