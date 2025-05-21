@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleon74&label=Profile%20views&color=1abc9c&style=flat" alt="kaleon74" /> </p>
 
-<h2 align="center"><img src="https://github.com/kaleon74/imagenes/blob/main/image.png?raw=true" width="60"/> <b>USTA Ing. Telecomunicaciones</b></h2>
+<h2 align="center"><img src="https://github.com/kaleon74/imagenes/blob/main/image.png?raw=true" width="40"/> <b>USTA Ing. Telecomunicaciones</b></h2>
 
 
 <p align="center">
