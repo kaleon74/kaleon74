@@ -50,18 +50,16 @@ Here are some ideas to get you started:
 
 <h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40"/> <b>GitHub Estadisticas : </b></h2>
 <details><summary><h3> 📂 Mis Repositorios </h3></summary>
+
 <div>
   <p align="center">
-    
-    <a href="https://github.com/kaleon74/Automatizacion_Tarea2">
+	<a href="https://github.com/kaleon74/Automatizacion_Tarea2">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Automatizacion_Tarea2&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    
-    <a href="https://github.com/kaleon74/Tarea-3-SO">
+     <a href="https://github.com/kaleon74/Tarea-3-SO">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Tarea-3-SO&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-     
-    <a href="https://github.com/kaleon74/Tarea-3-SO">
+     <a href="https://github.com/kaleon74/Tarea-3-SO">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Tarea-3-SO&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 </p>
