@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/router.gif" width="200"/> Sobre Mi 🙋🏽‍♂️:</h3>
-<p>
-  👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tomas <br>
-  🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones <br>
-  
-</p>
+<h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/router.gif?raw=true" width="30"/> <b>Sobre mi</b> 🙋🏽‍♂️:</h2>
+<picture> <img align="right" src="https://www.oliverwyman.es/content/dam/oliver-wyman/v2/tmp/communications-media-and-technology-mobile.gif" width = 250px></picture>
+
+👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tomas
+🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones 
+🛠️ Actualmente empleado en `Almacenes Alkosto`
 
 <footer>
   <img width=100% src= https://capsule-render.vercel.app/api?type=waving&height=101&color=gradient&textBg=false&fontAlign=39&animation=fadeIn&reversal=false&section=footer />
