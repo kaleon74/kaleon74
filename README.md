@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40"/> <b>GitHub Estadisticas : </b></h2>
-<details><summary><h3> 📂 Mis Repositorios </h3></summary>
+<details><summary><h2> 📂 Mis Repositorios </h2></summary>
 
 <div>
   <p align="center">
@@ -59,12 +59,17 @@ Here are some ideas to get you started:
      <a href="https://github.com/kaleon74/Tarea-3-SO">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Tarea-3-SO&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-     <a href="https://github.com/kaleon74/Tarea-3-SO">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Tarea-3-SO&theme=tokyonight" alt="GitHub Stats" />
+     <a href="https://github.com/kaleon74/Tarea_4_Robot">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Tarea_4_Robot&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/kaleon74/Proyecto_Contenedores">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleon74&repo=Proyecto_Contenedores&theme=tokyonight" alt="GitHub Stats" />
+	</a>
 </p>
 </div>
 </details>
+
+
     
 	
 
