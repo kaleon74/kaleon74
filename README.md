@@ -70,61 +70,7 @@ Here are some ideas to get you started:
 </details>
 
 <h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="45"/> <b>Antojate con nosotros : </b></h2>
-<h2 style="text-align: center;">PREGUNTAS</h2>
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; justify-items: center; padding: 20px; background: linear-gradient(to right, #fdf6e3, #fdf2c5);">
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">01</h3>
-    <p style="margin: 0;">NORMAS</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">02</h3>
-    <p style="margin: 0;">CONVIVENCIA</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">03</h3>
-    <p style="margin: 0;">PARQUEADERO</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">04</h3>
-    <p style="margin: 0;">CONTABILIDAD</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">05</h3>
-    <p style="margin: 0;">ADMINISTRACIÓN</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">06</h3>
-    <p style="margin: 0;">TÍTULO</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">07</h3>
-    <p style="margin: 0;">TÍTULO</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">08</h3>
-    <p style="margin: 0;">TÍTULO</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">09</h3>
-    <p style="margin: 0;">TÍTULO</p>
-  </div>
-
-  <div style="background-color: #c9cd82; border-radius: 15px; padding: 20px; text-align: center; width: 100px;">
-    <h3 style="margin: 0; font-size: 24px;">10</h3>
-    <p style="margin: 0;">TÍTULO</p>
-  </div>
-
-</div>
 
     
 <footer>
