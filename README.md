@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 </details>
 
 <h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="45"/> <b>Antojate con nosotros : </b></h2>
-<div>
 <h2 style="text-align: center;">PREGUNTAS</h2>
 
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; justify-items: center; padding: 20px; background: linear-gradient(to right, #fdf6e3, #fdf2c5);">
