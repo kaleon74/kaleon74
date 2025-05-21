@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/router.gif?raw=true" width="40"/> <b>Sobre mi</b> :</h2>
+<h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/router.gif?raw=true" width="45"/> <b>Sobre mi</b> :</h2>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tómas. <br>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ⌚ Emprendedor, venta de `Relojeria` y `Joyeria` de calidad.
 
 
-<h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40"/> <b>GitHub Estadisticas : </b></h2>
+<h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45"/> <b>GitHub Estadisticas : </b></h2>
 <details><summary><h2> 📂 Mis Repositorios </h2></summary>
 
 <div>
@@ -69,8 +69,11 @@ Here are some ideas to get you started:
 </div>
 </details>
 
-<h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="40"/> <b>Antojate con nosotros : </b></h2>
+<h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="45"/> <b>Antojate con nosotros : </b></h2>
+<div>
 
+ 
+</div>
 
     
 	
