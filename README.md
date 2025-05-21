@@ -36,10 +36,15 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tómas. <br>
+
 🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones. <br>
+
 🛠️ Actualmente empleado en `Almacenes Alkosto`.<br>
+
 🌐 Apasionado por el `Cloud Computing` y la `Arquitectura en la Nube`. <br>
+
 🤖 Interesado en nuevas tendencias tecnologias y avances de la `IA`. <br>
+
 ⌚ Emprendedor, venta de `Relojeria` y `Joyeria` de calidad.
 
 <footer>
