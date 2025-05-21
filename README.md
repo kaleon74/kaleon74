@@ -31,9 +31,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Router](https://github.com/kaleon74/imagenes/blob/main/router.gif)
 
-<h3 align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdwbDFoZXZkYjVzanhla2gxNG95YTlteDEzZm5zeWFzcXFuN2ExaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SA5IWJfBbNCgLpqKjl/giphy.gif" width="50px"/> Sobre Mi 🙋🏽‍♂️:</h3>
+<h3 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/router.gif" width="200"/> Sobre Mi 🙋🏽‍♂️:</h3>
 <p>
   👨🏽‍🎓 Estudiante `Ingenieria en Telecomunicaciones` en la Santo Tomas <br>
   🎓 Tecnologo en `Diseño y Mantenimiento en Sistemas` de Telecomunicaciones <br>
