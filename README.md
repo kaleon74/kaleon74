@@ -34,7 +34,7 @@
 ⌚ Emprendedor, venta de `Relojeria` y `Joyeria` de calidad.
 
 <h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width= "40"/> <b> Tecnoloigas conocidas: </b> </h2>
-<img align="right" width=300px alt="Cloud Computing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ0cDdsYjZ0eDYzcHg3cndleHp3cnQ0M2xkZWZvN3k2NDI1amVtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnTLgXn0zFXjbqF152/giphy.gif" />
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="right" alt= "Hacker" width = 200px/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
