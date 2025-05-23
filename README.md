@@ -65,12 +65,12 @@
 	</a>
 </p>
 </div>
-<summary><h2><b> 📃 Mi CV</b></h2>
+<details></details><summary><h2><b> 📃 Mi CV</b></h2></summary>
 
-</summary>
-<summary><h2><b> 📩 Contactame </b></h2>
 
-</summary>
+</details>
+
+<details><summary><h2><b> 📩 Contactame </b></h2></summary>
 </details>
 
 <h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="45"/> <b>Antojate con nosotros : </b></h2>
