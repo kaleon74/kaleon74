@@ -79,16 +79,21 @@
 	
  <div align="left"  class="icons-social" style="margin-left: 20px;">
         <a style="margin-left: 5px"  target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
-			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="200"></a>
+			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="250"></a>
         <a style="margin-left: 5px" target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="250"></a>
+		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="300"></a>
 		<a style="margin-left: 5px" target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
-				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="180"></a>
-	<a align="right" target="_blank" href="https://www.instagram.com/_ak_watch?igsh=Ymx3ZzRlNDB0bjZv">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a>
+				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="230"></a>
  </div>
  
+</p><br>
+
+<p align="center">
+	<a align="right" target="_blank" href="https://www.instagram.com/_ak_watch?igsh=Ymx3ZzRlNDB0bjZv">
+		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a>
+	<a align="center">Siguenos y parcha con lo Mejor</a>
 </p>
+
     
 <footer>
   <img width=100% src= https://capsule-render.vercel.app/api?type=waving&height=101&color=gradient&textBg=false&fontAlign=39&animation=fadeIn&reversal=false&section=footer />
