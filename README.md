@@ -40,10 +40,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)&nbsp; <br>
 ![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
+![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+![JavaScript](https://shields.io/badge/-javascript-4377cb?logo=javascript)
 
 <h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45"/> <b>GitHub Estadisticas : </b></h2>
 <details><summary><h2> 📂 <b> Mis Repositorios </b> </h2></summary>
@@ -64,19 +65,25 @@
 	</a>
 </p>
 </div>
+<summary><h2><b> 📃 Mi CV</b></h2>
+
+</summary>
+<summary><h2><b> 📩 Contactame </b></h2>
+
+</summary>
 </details>
 
 <h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="45"/> <b>Antojate con nosotros : </b></h2>
 <p align="left">
 	
  <div align="left"  class="icons-social" style="margin-left: 20px;">
-        <a style="margin-left: 5px"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 5px"  target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
 			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="200"></a>
-        <a style="margin-left: 5px" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 5px" target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
 		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="250"></a>
-		<a style="margin-left: 5px" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+		<a style="margin-left: 5px" target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
 				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="180"></a>
-	<a align="right" target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+	<a align="right" target="_blank" href="https://www.instagram.com/_ak_watch?igsh=Ymx3ZzRlNDB0bjZv">
 		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a>
  </div>
  
