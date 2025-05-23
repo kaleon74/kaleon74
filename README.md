@@ -81,6 +81,10 @@
 </details>
 
 <details><summary><h2><b> 📃 Mi CV</b></h2></summary>
+	<p align="center">
+			<a href="https://drive.google.com/file/d/1EiUouYlGKh6vncMG6WAe-w2LO9WzKjEa/view?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-							png.flaticon.com/256/3135/3135800.png" alt="CV" height="50" width="50" /></a>
+	</p>
+	
 </details>
 
 
