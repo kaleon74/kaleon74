@@ -111,8 +111,10 @@
 
 <p align="center">
 	<a align="right" target="_blank" href="https://www.instagram.com/_ak_watch?igsh=Ymx3ZzRlNDB0bjZv">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a>
+		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a><br>
+	<h3 align="center"> SIGUENOS ⤴️ </h3>
 </p>
+
 <!--Fin Parte promocional-->
     
 <footer>
