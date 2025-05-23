@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 		<a style="margin-left: 5px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="180"></a>
 	 <a style="margin-left: 5px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true width="250"></a> 
+		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a> 
  </div>
  
 </p>
