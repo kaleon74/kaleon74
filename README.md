@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="30"></a>
+			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="60"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="30"></a>
+		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="60"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg" width="30"></a>
+				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg" width="60"></a>
  </div>
 </p>
     
