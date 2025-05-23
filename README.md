@@ -70,13 +70,13 @@
 <p align="left">
 	
  <div align="left"  class="icons-social" style="margin-left: 20px;">
-        <a style="margin-left: 5px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 5px"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="200"></a>
-        <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 5px" target="_blank" href="https://github.com/100rabhcsmc">
 		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="250"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+		<a style="margin-left: 5px" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="180"></a>
-	<a style="margin-left: 50px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+	<a style="margin-left: 50px"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a>
  </div>
  
