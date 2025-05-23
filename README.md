@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ⌚ Emprendedor, venta de `Relojeria` y `Joyeria` de calidad.
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width= "45"/> <b>Tecnoloigas conocidas</b> </h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width= "40"/> <b> Tecnoloigas conocidas</b> </h2>
 
 
 <h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45"/> <b>GitHub Estadisticas : </b></h2>
