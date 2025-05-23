@@ -1,17 +1,6 @@
 
 <!--
 **kaleon74/kaleon74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <header>
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=101&color=gradient&textBg=false&fontAlign=39&animation=fadeIn&reversal=false />
@@ -19,11 +8,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"><b>Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, Mucho Gusto Soy Kevin Leon </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBuamZsNDZpZGRtcjU1bHM4ZWs5a3k1eHNydGllbm5uMndkdG4yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="60"></h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleon74&label=Profile%20views&color=1abc9c&style=flat" alt="kaleon74" /> </p>
-
 <h2 align="center"><img src="https://github.com/kaleon74/imagenes/blob/main/image.png?raw=true" width="40"/> <b>USTA Ing. Telecomunicaciones</b></h2>
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -55,6 +41,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=%23000000)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
 
 
 <h2 align="left"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45"/> <b>GitHub Estadisticas : </b></h2>
@@ -88,8 +75,8 @@ Here are some ideas to get you started:
 		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="250"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="180"></a>
-	 <a style="margin-left: 5px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a> 
+	<!-- <a style="margin-left: 5px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+		<img src="https://github.com/kaleon74/imagenes/blob/main/qr.jpeg?raw=true" width="250"></a> -->
  </div>
  
 </p>
