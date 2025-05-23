@@ -6,7 +6,7 @@
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=101&color=gradient&textBg=false&fontAlign=39&animation=fadeIn&reversal=false />
 </header>
 
-<h1 align="center"><b>Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, Mucho Gusto Soy Kevin Leon </b><img src="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV" width="60"></h1>
+<h1 align="center"><b>Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, Mucho Gusto Soy Kevin Leon </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnUxNHd0YXl2OHg5ZDQwcGo0ZGwzbDVoZjAxcXNxcXEwbHZzZ3MzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="60"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleon74&label=Profile%20views&color=1abc9c&style=flat" alt="kaleon74" /> </p>
 <h2 align="center"><img src="https://github.com/kaleon74/imagenes/blob/main/image.png?raw=true" width="40"/> <b>USTA Ing. Telecomunicaciones</b></h2>
