@@ -82,7 +82,8 @@
 
 <details><summary><h2><b> 📃 Mi CV</b></h2></summary>
 	<p align="center">
-			<a href="https://drive.google.com/file/d/1EiUouYlGKh6vncMG6WAe-w2LO9WzKjEa/view?usp=sharing" target="blank"> <img align="center" src="https://github.com/kaleon74/imagenes/blob/main/cv.png?raw=true" alt="CV" height="100" width="100" /> </a>
+			<a href="https://drive.google.com/file/d/1EiUouYlGKh6vncMG6WAe-w2LO9WzKjEa/view?usp=sharing" target="blank"> <img align="center" src="https://github.com/kaleon74/imagenes/blob/main/cv.png?raw=true" alt="CV" height="200" width="200" /> </a><br>
+		<h3 align="center"> Mi CV 📃 </h3>
 	</p>
 	
 </details>
