@@ -70,8 +70,17 @@ Here are some ideas to get you started:
 </details>
 
 <h2 align="left"> <img src="https://github.com/kaleon74/imagenes/blob/main/reloj-unscreen.gif?raw=true" width="45"/> <b>Antojate con nosotros : </b></h2>
+<p align="left">
 
-
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 50px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg"></a>
+ </div>
+</p>
     
 <footer>
   <img width=100% src= https://capsule-render.vercel.app/api?type=waving&height=101&color=gradient&textBg=false&fontAlign=39&animation=fadeIn&reversal=false&section=footer />
