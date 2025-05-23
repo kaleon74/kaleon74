@@ -86,7 +86,7 @@
         <a style="margin-left: 5px"  target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
 			<img src="https://github.com/kaleon74/imagenes/blob/main/reloj2.jpeg?raw=true" width="260"></a>
         <a style="margin-left: 5px" target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
-		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="310"></a>
+		<img src="https://github.com/kaleon74/imagenes/blob/main/reloj3.jpeg?raw=true" width="320"></a>
 		<a style="margin-left: 5px" target="_blank" href="drive.google.com/drive/folders/1QZ9uaMS1FkaM02UKeRFzxSKUpx3Ogn5T?usp=drive_link">
 				<img src="https://github.com/kaleon74/imagenes/blob/main/reloj1.jpeg?raw=true" width="240"></a>
  </div>
