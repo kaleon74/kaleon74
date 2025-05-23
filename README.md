@@ -65,7 +65,8 @@
 	</a>
 </p>
 </div>
-<details></details><summary><h2><b> 📃 Mi CV</b></h2></summary>
+
+<details><summary><h2><b> 📃 Mi CV</b></h2></summary>
 
 
 </details>
